@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\bin\Debug\netcoreapp3.1\_10exercResolvido.exe
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\bin\Debug\netcoreapp3.1\_10exercResolvido.deps.json
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\bin\Debug\netcoreapp3.1\_10exercResolvido.runtimeconfig.json
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\bin\Debug\netcoreapp3.1\_10exercResolvido.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\bin\Debug\netcoreapp3.1\_10exercResolvido.dll
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\bin\Debug\netcoreapp3.1\_10exercResolvido.pdb
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.AssemblyInfo.cs
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.dll
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.pdb
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.genruntimeconfig.cache
+C:\Users\rafae\source\repos\_10exercResolvido\_10exercResolvido\obj\Debug\netcoreapp3.1\_10exercResolvido.GeneratedMSBuildEditorConfig.editorconfig
